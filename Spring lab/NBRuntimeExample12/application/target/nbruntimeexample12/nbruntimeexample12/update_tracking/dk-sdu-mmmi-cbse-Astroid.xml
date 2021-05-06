@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.Astroid">
+    <module_version install_time="1620137217952" last="true" origin="installer" specification_version="1.0">
+        <file crc="395033465" name="config/Modules/dk-sdu-mmmi-cbse-Astroid.xml"/>
+        <file crc="3164104926" name="modules/dk-sdu-mmmi-cbse-Astroid.jar"/>
+    </module_version>
+</module>
